@@ -1,3 +1,5 @@
+# Study tips for Programming
+A beginner-friendly guide to learning programming through practice, collaboration, and useful resources
 ## Git Best Practices
 
 - Commit your changes regularly.
