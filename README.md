@@ -1,3 +1,6 @@
-# Study Tips for Programming
+## Helpful Learning Resources
 
-A beginner-friendly guide for students who want to improve their programming skills through effective study habits, practice, collaboration, and useful learning resources.
+- W3Schools - Beginner Programming tutorials
+- Programiz - Python Programming tutorials
+- GitHub Docs - Learning Git and Github
+- freeCodeCamp - Programming Lessons and exercises
