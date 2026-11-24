@@ -1,3 +1,6 @@
+# Study Tips for Programming
+
+A guide for students who want to improve their programming skills through effective study habits.
 ## Git Best Practices
 
 - Commit your changes regularly.
