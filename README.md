@@ -1,3 +1,7 @@
-# Study Tips for Programming
+## Git Best Practices
 
-A beginner-friendly guide for students who want to improve their programming skills through effective study habits, practice, collaboration, and useful learning resources.
+- Commit your changes regularly.
+- Use clear commit messages.
+- Create branches when working on new features.
+- Review changes before merging.
+- Communicate with your teammates.
