@@ -5,3 +5,4 @@
 - Create branches when working on new features.
 - Review changes before merging.
 - Communicate with your teammates.
+- Pull the latest changes before starting new work.
